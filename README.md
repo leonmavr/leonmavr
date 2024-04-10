@@ -1,4 +1,4 @@
-Currently busy with a top-secret private project so I won't have much time to work anything else here or reply to messages.
+Currently busy with a top-secret private project so I won't have much time to work anything else here or to reply to messages.
 Have some cat gifs in the meantime.  
 
 <table>
