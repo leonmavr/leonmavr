@@ -14,6 +14,6 @@ Have some cat gifs in the meantime.
     </tr>
 </table>
 
-Sometimes I publish stuff that pique my interest in my github blog.
+Sometimes I publish stuff that piques my interest in my github blog.
 
 - :notebook: [blog](https://leonmavr.github.io)
