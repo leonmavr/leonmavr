@@ -22,9 +22,9 @@ Hi, I'm Leo and here are some of my noteworthy completed projects.
       </a>
     </td>
     <td style="vertical-align: top;">
-      Haptic engine enabling full computer control through gestures and motions, serving as a complete mouse replacement. Versatile and can be extended for
-      various applications, such as gaming controls, custom hotkeys, or an air keyboard. Fully customizable, allowing you to define gestures and assign
-      specific actions to each. Benchmarks available upon request.
+      Haptic engine enabling full computer control through gestures and motions, serving as a complete mouse replacement. Versatile, can be extended for
+      various applications, such as gaming controls, hotkeys, or an air keyboard. Fully customizable, allowing you to define gestures and assign
+      specific actions. Benchmarks available upon request.
     </td>
   </tr>
 
@@ -95,8 +95,7 @@ Hi, I'm Leo and here are some of my noteworthy completed projects.
     </td>
     <td style="vertical-align: top;">
       Chip-8 interpreter and emulator able to play old games directly on your terminal. Includes a UI with debugger view and
-      customizable presets for each game, as well as toagglable quirks to handle various versions of the interpreter. No
-      libraries required. 
+      customizable presets for each game. No libraries required. 
     </td>
   </tr>
 
