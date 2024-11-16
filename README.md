@@ -1,3 +1,163 @@
-Sometimes I publish stuff that piques my interest in my github blog.
+Hi, I'm Leo. Here are some of my noteworthy completed projects.
 
-- :notebook: [blog](https://leonmavr.github.io)
+
+<table>
+  <tr>
+    <th style="width: 15%; text-align: left;">Project</th>
+    <th style="width: 35%; text-align: center;">Media</th>
+    <th style="width: 25%; text-align: center;">Links</th>
+    <th style="width: 30%; text-align: left;">Description</th>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <b>Fluxmouse</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/leonmavr/leonmavr/refs/heads/master/assets/fluxmouse/video.gif" alt="fluxmouse media" style="width: 300px;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=_N3cSB2Ij-c">
+        <img src="https://raw.githubusercontent.com/leonmavr/leonmavr/refs/heads/master/assets/icons/youtube.png" alt="link" style="width: 100px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      Haptic engine enabling full computer control through gestures and motions, serving as a complete mouse replacement. Versatile and can be extended for
+      various applications, such as gaming controls, custom hotkeys, or an air keyboard. Fully customizable, allowing you to define gestures and assign
+      specific actions to each. Benchmarks available upon request.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <b>Retrocube</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <img src="https://github.com/leonmavr/retrocube/blob/master/assets/demo_moving.gif" alt="retrocube gif" style="width: 300px;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://github.com/leonmavr/retrocube">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      3D voxel graphics engine on the terminal in standard C without third parties (not just cubes, any voxel!).
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <b>EZfaces</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <div></div>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://github.com/leonmavr/EZfaces">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      Python package that implements eigenfaces for face recognition. Comes with some facial training data which you can easily augment
+      with your own data. Lightweight and can be trained on a CPU in a few seconds.
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="vertical-align: top;">
+      <b>Quadtree</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/leonmavr/quad-tree/refs/heads/master/assets/01_particle_sim.gif" alt="quadtree gif" style="width: 300px;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://github.com/leonmavr/quad-tree">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      Simple implementation and visualisation of my favorite data structure - quad tree, in C. Includes real-time visualization in two
+      different ways - via GNUplot or as .ppm frames.
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="vertical-align: top;">
+      <b>Chip-8</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <img src="https://github.com/leonmavr/chip-8/blob/master/assets/demo_grid.gif" alt="chip8 gif" style="width: 300px;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://github.com/leonmavr/chip-8">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      Chip-8 interpreter and emulator able to play old games directly on your terminal. Includes a UI with debugger view and
+      customizable presets for each game, as well as toagglable quirks to handle various versions of the interpreter. No
+      libraries required. 
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <b>HIP-35</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/hip35/hip35.gif" alt="HP35 gif" style="width: 300px;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://github.com/leonmavr/HIP35.git">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      HP-35 RPN calculator emulator on the terminal. Includes a UI, functions, constants, and memory registers.
+      Try it and after a few hours you'll find it faster than a classical calculator. <i>Cool trivia</i>: used by some of the first
+      NASA missions for orbit calculation.
+    </td>
+  </tr>
+ 
+  <tr>
+    <td style="vertical-align: top;">
+      <b>Kinect and random forests</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://github.com/leonmavr/kinect-rf">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+      <a href="https://leonmavr.github.io/computer_vision/2024/09/30/Kinect-setup-and-capture.html">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/blog.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td styrle="vertical-align: top;">
+      Python pipeline to train your own head and hand classifier from depth camera (e.g. Kinect's) data. Training is implemented via
+      random forests using my own simple feature extractor. Therefore it's lightweight and run on a CPU. Includes a basic pre-trained
+      classifier.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="vertical-align: top;">
+      <b>nanotest</b>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://raw.githubusercontent.com/leonmavr/quad-tree/refs/heads/master/test/nanotest.h">
+        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
+      </a>
+    </td>
+    <td styrle="vertical-align: top;">
+      The tiniest unit testing framework you'll ever see! Not a project per se, but a small single header ggc-only library in C that allows
+      unit testing via a simple macro interface. It's also able to point to failed test cases. Comes in handy if you don't want to maintain
+      big dependencies like Googletest.
+    </td>
+  </tr>
+  
+</table>
+
+Sometimes I also publish stuff that piques my interest in my :notebook: [blog](https://leonmavr.github.io).
