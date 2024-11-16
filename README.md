@@ -1,4 +1,4 @@
-Hi, I'm Leo. Here are some of my noteworthy completed projects.
+Hi, I'm Leo and here are some of my noteworthy completed projects.
 
 
 <table>
@@ -137,24 +137,6 @@ Hi, I'm Leo. Here are some of my noteworthy completed projects.
       Python pipeline to train your own head and hand classifier from depth camera (e.g. Kinect's) data. Training is implemented via
       random forests using my own simple feature extractor. Therefore it's lightweight and run on a CPU. Includes a basic pre-trained
       classifier.
-    </td>
-  </tr>
-
-  <tr>
-    <td style="vertical-align: top;">
-      <b>nanotest</b>
-    </td>
-    <td style="text-align: center; vertical-align: top;">
-    </td>
-    <td style="text-align: center; vertical-align: top;">
-      <a href="https://raw.githubusercontent.com/leonmavr/quad-tree/refs/heads/master/test/nanotest.h">
-        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
-      </a>
-    </td>
-    <td styrle="vertical-align: top;">
-      The tiniest unit testing framework you'll ever see! Not a project per se, but a small single header ggc-only library in C that allows
-      unit testing via a simple macro interface. It's also able to point to failed test cases. Comes in handy if you don't want to maintain
-      big dependencies like Googletest.
     </td>
   </tr>
   
