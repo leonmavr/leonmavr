@@ -134,7 +134,7 @@ Hi, I'm Leo and here are some of my noteworthy completed projects.
     </td>
     <td styrle="vertical-align: top;">
       Python pipeline to train your own head and hand classifier from depth camera (e.g. Kinect's) data. Training is implemented via
-      random forests using my own simple feature extractor. Therefore it's lightweight and run on a CPU. Includes a basic pre-trained
+      random forests using my own simple feature extractor. Therefore it's lightweight and runs on a CPU. Includes a basic pre-trained
       classifier.
     </td>
   </tr>
