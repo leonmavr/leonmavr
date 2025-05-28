@@ -98,25 +98,6 @@ Hi, I'm Leo and here are some of my noteworthy completed projects.
       customizable presets for each game. No libraries required. 
     </td>
   </tr>
-
-  <tr>
-    <td style="vertical-align: top;">
-      <b>HIP-35</b>
-    </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/hip35/hip35.gif" alt="HP35 gif" style="width: 300px;">
-    </td>
-    <td style="text-align: center; vertical-align: top;">
-      <a href="https://github.com/leonmavr/HIP35.git">
-        <img src="https://github.com/leonmavr/leonmavr/blob/master/assets/icons/github.png?raw=true" alt="gh link" style="width: 100px;">
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      HP-35 RPN calculator emulator on the terminal. Includes a UI, functions, constants, and memory registers.
-      Try it and after a few hours you'll find it faster than a classical calculator. <i>Cool trivia</i>: used by some of the first
-      NASA missions for orbit calculation.
-    </td>
-  </tr>
  
   <tr>
     <td style="vertical-align: top;">
