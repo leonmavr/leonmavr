@@ -1,2 +1,1 @@
-Hi 👋
-In this page I work on recreational projects unrelated to work.
+Here I work on recreational projects to escape from work.
